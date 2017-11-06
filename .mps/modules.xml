@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$USER_HOME$/Git/GitHub/TestOneNote/TestOneNotes.mpl" folder="" />
+      <modulePath path="$USER_HOME$/Git/GitHub/TestOneNote/runtime/TestOneNotes.runtime.msd" folder="" />
+      <modulePath path="$USER_HOME$/Git/GitHub/TestOneNote/sandbox/TestOneNotes.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
